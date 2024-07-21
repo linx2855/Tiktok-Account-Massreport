@@ -1,7 +1,8 @@
 {
-    "report_url": "",
+    "report_url": "
+https://www.tiktok.com/aweme/v2/aweme/feedback/?WebIdLastTime=1714157372&aid=1988&app_language=es&app_name=tiktok_web&browser_language=es&browser_name=Mozilla&browser_online=true&browser_platform=Win32&browser_version=5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36%20Edg%2F126.0.0.0&channel=tiktok_web&cookie_enabled=true&current_region=ES&data_collection_enabled=true&device_id=7362249445490427424&device_platform=web_pc&focus_state=true&from_page=user&history_len=1&is_fullscreen=false&is_page_visible=true&lang=es&nickname=%F0%9D%93%A1%F0%9F%92%99&object_id=7186762276091249669&odinId=7375236697472468001&os=windows&owner_id=7186762276091249669&priority_region=&reason=91015&referer=&region=ES&report_type=user&reporter_id=7375236697472468001&screen_height=864&screen_width=1536&secUid=MS4wLjABAAAAhMTCwHFVL0aTwPtSlmd-laRfXjJnM3uXw56fLn6arr70n4MlAtnboLQ34hO5xYux&target=7186762276091249669&tz_name=Europe%2FMadrid&user_is_login=true&webcast_language=es&msToken=UtMSVXlbKpgEK-kcGUXPrDCzrKnNuf4I28ETB-vRdcLl72rit_SoUGilJjL1hxk0sBS-sOQu73XtiXcnZdoEHAoXeU6enLDlWz4nQzT6oRt6Nxf2Z8YB_7EtUVBeDx-LKT2Fs42oXgXT-OCWdo6b1_b9&X-Bogus=DFSzswVumfGANVsbtwqImK6HQhYT&_signature=_02B4Z6wo00001jgZMzgAAIDDWrYwoROIkQI4GTeAAOipc7",
     "proxy_scraper": "n",
-    "threads": 200,
+    "threads": 20000,
 
     "report_types": {
         "Violence": "n",
@@ -18,6 +19,6 @@
         "Firearms Or Weapons": "n",
         "Sharing Personal Info": "n",
         "Human Exploitation": "n",
-        "Under Age": "n"
+        "Under Age": "y"
     }
 }
